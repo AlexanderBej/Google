@@ -1,0 +1,147 @@
+html{
+	display: block;
+}
+}
+.bar{position: right;
+	}
+.google{
+	display: block;
+	margin: 0 auto;
+	padding-top: 190px;
+	margin-left: 530px;
+}
+.google:focus{
+	outline: -webkit-focus-ring-color auto 5px;
+    outline-color: -webkit-focus-ring-color;
+    outline-style: auto;
+    outline-width: 5px;
+}
+#image{
+	height: 92px;
+}
+.bleft{
+	float: left;
+	position: relative;
+}
+.brigt{
+	float: right;
+	position: relative
+}
+.bar{
+	float:right
+}
+#gmail{
+	text-decoration: none;
+	font-family: arial;
+	font-size: 13px;
+	color: black;
+	left: 10px;
+	right: 10px;
+}
+#gmail:hover{
+	text-decoration: underline;
+}
+#images{
+	text-decoration: none;
+	font-family: arial;
+	font-size: 13px;
+	color: black;
+	left: 10px;
+	right: 10px;
+}
+#images:hover{
+	text-decoration: underline;
+}
+#apps{
+	display: inline-block;
+	position: relative;
+	left: 10px;
+	right: 10px;
+	top: 7px;
+}
+#button{
+	background-color: #4286f4;
+	color: white;
+	width: 70px;
+	border-radius: 3px;
+	border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+	font-size: 13px;
+	height: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#about, #terms, #adv, #conf, #comp, #set{
+	text-decoration: none;
+	font-family: arial;
+	font-size: 13px;
+	color: black;
+	left: 10px;
+	right: 10px;
+	margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #757575;
+    text-decoration: none;
+    position: relative;
+    float: bottom;
+}
+#about:hover{
+	text-decoration: underline;
+}
+#terms:hover{
+	text-decoration: underline;
+}
+#adv:hover{
+	text-decoration: underline;
+}
+#conf:hover{
+	text-decoration: underline;
+}
+#comp:hover{
+	text-decoration: underline;
+}
+#set:hover{
+	text-decoration: underline;
+}
+#src{
+	width: 150px;
+    height: 35px;
+    background-color: #f2f2f2;
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #757575;
+    border-style: none;
+}
+#luck{
+	width: 150px;
+    height: 35px;
+    background-color: #f2f2f2;
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #757575;
+    border-style: none;
+}
+
+.searchbox_demo{
+	display: block;
+    height: 40px;
+    width: 600px;
+    margin-top: 30px;
+}
+.bottom{
+	height: 50px;
+    width: 99%;
+    position: absolute;
+    bottom: 0px;
+    margin-bottom: 0px;
+    background-color: #f2f2f2;
+}
